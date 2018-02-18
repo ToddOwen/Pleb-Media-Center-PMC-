@@ -1,0 +1,22 @@
+/* background 1 :#011C26
+   background 2 :#40A993
+   border : #FD3D47
+   title : #F6A779
+   text: F2EDA7
+*/
+
+body{
+    background-color: #011C26;
+}
+
+
+
+.DBStatusBar{
+    background-color: #40A993;
+    border: double 3px #FD3D47;
+}
+
+.main{
+    background-color: #40A993;
+    border: double 3px #FD3D47;
+}
